@@ -1,4 +1,4 @@
-# 📚 Programmazione di Sistemi Multicore – Translated Notes & Code
+# 📚 Programming Tutoring
 
 ## 🐍 About this Repository
 
