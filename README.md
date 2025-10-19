@@ -27,7 +27,7 @@ This repository contains exercise codes for the **"Programming"** course, taught
 
 The Professors use [Spyder](https://www.spyder-ide.org/) as the main IDE for the course.
 
-If you are not familiar with it, you can open the IDE by launching `./idea.sh` from the terminal.
+If you are not familiar with it, you can open the IDE by launching `spyder` from the terminal.
 
 ---
 
